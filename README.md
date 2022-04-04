@@ -29,6 +29,11 @@ A seguir estão as informações do que é necessário para executar o projeto, 
 | :-------- | :------- |
 | `GET` | `api/?format=json` | 
 
+## Pontos de Melhoria
+
+- Testes e cobertura;
+- Utilizar algum tipo de autorização (Ex.: Bearer, Basic Auth).
+
 ## Author
 
 - Elton Meurer
